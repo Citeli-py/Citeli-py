@@ -1,24 +1,37 @@
-## Hi, I’m Matheus Citeli and I'am a brazilian computer science student from UFF
+<p align="left">
+  <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B309FF&width=435&lines=print(%22Hello%2C+world!%22)" alt="Typing SVG" />
+</p>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+  I'm a brazilian <strong>Computer Science</strong>🎓 student from UFF🏛. I'm a passionate learner who's always willing to learn and work across technologies 💡.<br>
+  I love to explore new technologies and leverage them to solve real-life problems✨.
+</p>
+
+<p align="left">
+  🛠 I'm currently coding with: <strong>Python, C/C++, java and Node.js.</strong>
+</p>
+
+<p align="left">
+  🥋 Passionate about Brazillian Jiu-jitsu 🥋 and combat sports general.
+</p>
+
+<p align="left">
+  💌 How to reach me: ⤵️
+</p>
+
+<p align="left">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=matheusciteli@id.uff.br" alt="Email" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+  <a href="https://www.linkedin.com/in/matheus-citeli-39046417a/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+</p>  
+
+#
+
 <div align="center">
-  <a href="https://github.com/Citeli-py">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Citeli-py&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Citeli-py&layout=compact&langs_count=7&theme=merko"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/matheus_citeli/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheusciteli@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-citeli-39046417a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+
+### “If you spend too much time thinking about a thing, you’ll never get it done.” – Bruce Lee
+
 </div>
