@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  🥋 Passionate about Brazillian Jiu-jitsu 🥋 and combat sports general.
+  🥋 Passionate about Brazillian Jiu-jitsu 🥋 and combat in sports general.
 </p>
 
 <p align="left">
