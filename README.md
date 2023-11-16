@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🛠 I'm currently coding with: <strong>Python, C/C++, java and Node.js.</strong>
+  🛠 I'm currently coding with: <strong>Python, C/C++, java and Ruby.</strong>
 </p>
 
 <p align="left">
